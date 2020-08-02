@@ -1,2 +1,2 @@
 # Scripts
-Automation scripts using Shell, Perl and Python and Groovy!
+Automation scripts using Shell, Perl, Python and Groovy!
